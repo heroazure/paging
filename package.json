@@ -1,0 +1,34 @@
+{
+  "name": "paging",
+  "version": "1.0.0",
+  "description": "兼容cmd模块也可普通方式script标签引入",
+  "main": "Gruntfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/heroazure/paging.git"
+  },
+  "keywords": [
+    "分页，paging"
+  ],
+  "author": "heroxiao",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/heroazure/paging/issues"
+  },
+  "homepage": "https://github.com/heroazure/paging#readme",
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-banner": "^0.2.3",
+    "grunt-cmd-transport": "^0.5.1",
+    "grunt-contrib-clean": "^1.0.0",
+    "grunt-contrib-concat": "^1.0.1",
+    "grunt-contrib-copy": "^1.0.0",
+    "grunt-contrib-jshint": "^1.0.0",
+    "grunt-contrib-less": "^0.11.4",
+    "grunt-contrib-uglify": "^0.5.1",
+    "grunt-contrib-watch": "^0.6.1"
+  }
+}
